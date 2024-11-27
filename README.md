@@ -30,7 +30,7 @@ The primary goal of this project is to:
 ---
 
 🌐 Live Website
-Visit the live version of the project: Pinterest Clone
+Visit the live version of the project:  https://asfakahameds.github.io/Pinterest-Clone/
 
 ---
 
