@@ -29,6 +29,11 @@ The primary goal of this project is to:
 
 ---
 
+🌐 Live Website
+Visit the live version of the project: Pinterest Clone
+
+---
+
 ## 📫 Contact  
 
 Feel free to connect with me:  
